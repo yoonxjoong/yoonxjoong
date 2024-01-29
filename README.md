@@ -13,7 +13,16 @@
 - 2019-05 ~ 2021-09 : 전군 PC 보안 솔루션 구축 사업 참여 - 화이트리스트 체계 (윈도우 프로그램, 드라이버 및 웹 서버 개발)
 
 ## 🔧 기술 스택
-- JAVA, C#, Vue.js, C++
+#### Strong
+java / Spring boot
+C# / .Net Framework
+Mysql / MariaDB / Redis
+
+#### Knowledgeable
+javaScript / Vue.js 
+AWS Cloud
+C++ / Windows Driver
+
 
 ## 📔 자격증
 - AWS Certified Solutions Architect - Associate (2024-01)
