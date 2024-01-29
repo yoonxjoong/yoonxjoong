@@ -14,14 +14,14 @@
 
 ## 🔧 기술 스택
 #### Strong
-java / Spring boot
-C# / .Net Framework
-Mysql / MariaDB / Redis
+- java / Spring boot
+- C# / .Net Framework
+- Mysql / MariaDB / Redis
 
 #### Knowledgeable
-javaScript / Vue.js 
-AWS Cloud
-C++ / Windows Driver
+- javaScript / Vue.js 
+- AWS Cloud
+- C++ / Windows Driver
 
 
 ## 📔 자격증
