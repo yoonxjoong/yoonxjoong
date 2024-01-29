@@ -19,7 +19,7 @@
 - AWS Certified Solutions Architect - Associate (2024-01)
 - 리눅스마스터 2급 (2023-12)
 - SQL 개발자 (sqld) (2021-06)
-- (국가공인)네트워크관리사 2급 - 한국정보통신자격협회 (2018-03)
+- 네트워크관리사 2급 - 한국정보통신자격협회 (2018-03)
 
 <!--
 **YHJOONG/YHJOONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
