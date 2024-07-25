@@ -19,10 +19,9 @@
 - Mysql / MariaDB / Redis
 
 #### Knowledgeable
-- javaScript / Vue.js 
+- javaScript / Vue.js
+- C++ / Windows Driver 
 - AWS Cloud
-- C++ / Windows Driver
-
 
 ## 📔 자격증
 - AWS Certified Solutions Architect - Associate (2024-01)
