@@ -13,12 +13,12 @@ I like to keep learning and growing, never settling for the present.
 I wnat to work with and collaborate with many people throught programming.
 
 
-## ⏰ 경력
+## ⏰ History
 - 2022-10 ~ 현재 : C2C 이커머스 서비스 구축 및 운영
 - 2021-09 ~ 2022-10 : 가상화폐 거래소 구축 사업 참여 (시세 엔진 모듈 파트)
 - 2019-05 ~ 2021-09 : 전군 PC 보안 솔루션 구축 사업 참여 - 화이트리스트 체계 (윈도우 프로그램, 드라이버 및 웹 서버 개발)
 
-## 🔧 기술 스택
+## 🔧 Technology Stack
 #### Strong
 - java / Spring boot
 - C# / .Net Framework
@@ -29,7 +29,7 @@ I wnat to work with and collaborate with many people throught programming.
 - C++ / Windows Driver 
 - AWS Cloud
 
-## 📔 자격증
+## 📔 Certificate
 - AWS Certified Solutions Architect - Associate (2024-01)
 - 리눅스마스터 2급 (2023-12)
 - SQL 개발자 (sqld) (2021-06)
