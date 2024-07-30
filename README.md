@@ -6,6 +6,12 @@
 
 프로그래밍을 통해 많은 사람들과 협업하며 일하길 원합니다. 👯
 
+I enjoy writing code and anylazing data.
+
+I like to keep learning and growing, never settling for the present.
+
+I wnat to work with and collaborate with many people throught programming.
+
 
 ## ⏰ 경력
 - 2022-10 ~ 현재 : C2C 이커머스 서비스 구축 및 운영
