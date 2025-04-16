@@ -16,4 +16,4 @@
 - Two factor Login sample prodject with google authenticator [ling](https://github.com/yoonxjoong/Multi-factor-login)
 
 ## blog
-[http://github.io](https://yoonxjoong.github.io/)
+[https://yoonxjoong.github.io/](https://yoonxjoong.github.io/)
