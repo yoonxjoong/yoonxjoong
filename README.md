@@ -20,5 +20,8 @@
 - SQL 개발자 (sqld) (2021-06)
 - 네트워크관리사 2급 - 한국정보통신자격협회 (2018-03)
 
+## Side Project
+- Redisson lock performance test (pubsub lock vs Spin lock) [link](https://github.com/yoonxjoong/redis-lock-test)
+
 ## blog
 [http://github.io](https://yoonxjoong.github.io/)
