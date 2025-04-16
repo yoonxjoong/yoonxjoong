@@ -21,7 +21,8 @@
 - 네트워크관리사 2급 - 한국정보통신자격협회 (2018-03)
 
 ## Side Project
-- Redisson lock performance test (pubsub lock vs Spin lock) [link](https://github.com/yoonxjoong/redis-lock-test)
+- Redisson lock performance test (pubsub lock vs Spin lock)  [link](https://github.com/yoonxjoong/redis-lock-test)
+- Two factor Login sample prodject with google authenticator [ling](https://github.com/yoonxjoong/Multi-factor-login)
 
 ## blog
 [http://github.io](https://yoonxjoong.github.io/)
