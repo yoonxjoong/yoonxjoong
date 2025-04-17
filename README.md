@@ -13,7 +13,7 @@
 
 ## Side Project
 - Redisson lock performance test (pubsub lock vs Spin lock)  [link](https://github.com/yoonxjoong/redis-lock-test)
-- Two factor Login sample prodject with google authenticator [link](https://github.com/yoonxjoong/Multi-factor-login)
+- Two factor Login sample project with google authenticator [link](https://github.com/yoonxjoong/Multi-factor-login)
 
 ## blog
 [https://yoonxjoong.github.io/](https://yoonxjoong.github.io/)
