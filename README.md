@@ -17,3 +17,6 @@
 
 ## blog
 [https://yoonxjoong.github.io/](https://yoonxjoong.github.io/)
+
+## LeetCode Stat
+![LeetCode Stats](https://leetcard.jacoblin.cool/hye-joong?theme=light&font=Noto%20Sans%20Shavian)
