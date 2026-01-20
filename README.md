@@ -19,5 +19,8 @@
 ## blog
 [https://yoonxjoong.github.io/](https://yoonxjoong.github.io/)
 
+## Algorithm Problems
+[https://docs.google.com/spreadsheets/d/1HUJ7qy8o6t9-6KnmcDPfe1Nq-YLod8FgcU_bT-sQeQY/edit?gid=0#gid=0]
+
 ## LeetCode Stat
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hye-joong?theme=light&font=Noto%20Sans%20Shavian)
